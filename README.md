@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🤖 Jarvis AI
+# 🤖 Jarvis
 
-### Next-Generation AI Voice Assistant
+### Intelligent Voice-Controlled Personal Assistant
 
 **Voice Intelligence • AI Conversations • Smart Automation • Real-Time Assistance**
 
@@ -24,11 +24,11 @@
 
 # 📖 Overview
 
-Jarvis AI is an intelligent voice-controlled virtual assistant designed to bring the power of Artificial Intelligence and automation into daily computing tasks.
+Jarvis is an intelligent voice-controlled virtual assistant designed to bring the power of Artificial Intelligence and automation into everyday computing tasks.
 
 Built with Python and powered by advanced AI technologies, Jarvis can understand spoken commands, perform intelligent actions, answer questions, retrieve real-time information, and automate repetitive workflows through natural voice interaction.
 
-The project demonstrates the integration of speech recognition, natural language understanding, AI-powered conversations, and automation into a single unified assistant experience.
+The project demonstrates the integration of speech recognition, natural language understanding, AI-powered conversations, and automation into a unified personal assistant experience.
 
 ---
 
@@ -45,7 +45,7 @@ Jarvis transforms this experience by enabling:
 * Hands-free task execution
 * Intelligent user assistance
 
-The goal is to create a personal AI assistant capable of understanding, reasoning, and assisting users in real-world scenarios.
+The goal is to create a personal assistant capable of understanding, reasoning, and assisting users in real-world scenarios.
 
 ---
 
@@ -188,14 +188,15 @@ Jarvis/
 
 # 🚀 Installation
 
-Clone the repository:
+## Clone the Repository
 
 ```bash
 git clone https://github.com/tanmayyenpure/Jarvis.git
+
 cd Jarvis
 ```
 
-Install dependencies:
+## Install Dependencies
 
 ```bash
 pip install openai
@@ -204,9 +205,19 @@ pip install gtts
 pip install pygame
 pip install requests
 pip install pyttsx3
+pip install pyaudio
 ```
 
-Run Jarvis:
+## Configure API Keys
+
+Replace your API keys inside the project:
+
+```python
+OPENAI_API_KEY = "YOUR_OPENAI_API_KEY"
+NEWS_API_KEY = "YOUR_NEWS_API_KEY"
+```
+
+## Run Jarvis
 
 ```bash
 python main.py
@@ -232,15 +243,15 @@ Jarvis, explain machine learning
 
 ---
 
-# 🌟 Highlights
+# 🌟 Platform Highlights
 
 ### 🎤 Hands-Free Interaction
 
-Operate your assistant entirely through voice.
+Operate your assistant entirely through voice commands.
 
 ### 🤖 AI-Powered Responses
 
-Utilize cutting-edge language models for intelligent communication.
+Leverage advanced language models for intelligent communication and assistance.
 
 ### ⚡ Fast & Lightweight
 
@@ -248,7 +259,7 @@ Built with simplicity, performance, and scalability in mind.
 
 ### 🌐 Connected Experience
 
-Access information, websites, and services instantly.
+Access websites, information, and services instantly.
 
 ### 🔊 Natural Communication
 
@@ -258,7 +269,7 @@ Receive responses in a conversational and human-friendly manner.
 
 # 🎯 Learning Outcomes
 
-This project demonstrates expertise in:
+This project demonstrates practical knowledge of:
 
 * Artificial Intelligence
 * Large Language Models (LLMs)
@@ -279,7 +290,7 @@ This project demonstrates expertise in:
 
 * Multi-Agent Architecture
 * Long-Term Memory System
-* Personalized AI Profiles
+* Personalized User Profiles
 * Advanced Reasoning Capabilities
 
 ## 🏠 Smart Ecosystem
@@ -296,10 +307,10 @@ This project demonstrates expertise in:
 * Meeting Summaries
 * Workflow Automation
 
-## 🌎 Enterprise Expansion
+## 🌎 Platform Expansion
 
 * Multi-Language Support
-* Desktop Application
+* Desktop Application Interface
 * Mobile Companion App
 * Cloud Deployment
 
@@ -309,19 +320,33 @@ This project demonstrates expertise in:
 
 Contributions, suggestions, and improvements are welcome.
 
+1. Fork the repository
+
+2. Create a feature branch
+
 ```bash
 git checkout -b feature/new-feature
+```
+
+3. Commit your changes
+
+```bash
 git commit -m "feat: add new feature"
+```
+
+4. Push your branch
+
+```bash
 git push origin feature/new-feature
 ```
 
-Then open a Pull Request.
+5. Open a Pull Request
 
 ---
 
 # 📜 License
 
-Licensed under the **MIT License**.
+This project is licensed under the **MIT License**.
 
 ---
 
@@ -329,11 +354,9 @@ Licensed under the **MIT License**.
 
 ## Tanmay Yenpure
 
-AI/ML Engineer 
+AI/ML Engineer
 
-GitHub:
-
-https://github.com/tanmayyenpure
+🐙 GitHub: https://github.com/tanmayyenpure
 
 ---
 
@@ -341,7 +364,7 @@ https://github.com/tanmayyenpure
 
 ## ⭐ Support the Project
 
-If you found **Jarvis AI** useful, consider giving this repository a **Star ⭐**.
+If you found **Jarvis** useful, consider giving this repository a **Star ⭐** and sharing it with the community.
 
 ### Building the Future of Human-AI Interaction.
 
